@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Desenvolvimento de Sistemas",
+        "professorId": 1
+    },
+    {
+        "nome": "Logística",
+        "professorId": 1
+    },
+    {
+        "nome": "Mecatronica",
+        "professorId": 1
+    },
+    {
+        "nome": "Eletrônica",
+        "professorId": 2
+    },
+    {
+        "nome": "Características Técnicas de Motores à Combustão Interna",
+        "professorId": 2
+    },
+    {
+        "nome": "Eletrômecania",
+        "professorId": 2
+    },
+    {
+        "nome": "Excel Avançado",
+        "professorId": 3
+    },
+    {
+        "nome": "Mecânico de Bombas",
+        "professorId": 3
+    },
+    {
+        "nome": "Ciclos de Retorno para Economia Circular",
+        "professorId": 3
+    }
+]
